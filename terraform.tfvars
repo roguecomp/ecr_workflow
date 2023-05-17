@@ -1,2 +1,2 @@
-tag = "dev"
+tag    = "dev"
 region = "ap-southeast-2"
